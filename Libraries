@@ -1,0 +1,7 @@
+import streamlit as st
+import pandas as pd
+import easyocr
+import mysql.connector
+from mysql.connector import Error
+import cv2
+import numpy as np
