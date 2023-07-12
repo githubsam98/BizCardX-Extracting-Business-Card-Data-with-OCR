@@ -1,7 +1,14 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
 
-Through this project I have been tasked with developing a Streamlit application that allows users to upload an image of a business card and extract relevant information from it using easyOCR. 
+However the tchnologies evolves,people still using the physical Business card everywhere.Also its has a some advantages too. as a consumer they get a lots of card often ,
 
-The extracted information should include the company name, card holder name, designation, mobile number, email address, website URL, area, city, state, and pin code. The extracted information should then be displayed in the application's graphical user interface (GUI).In addition, the application should allow users to save the extracted information into a database along with the uploaded business card image. 
+And Here is the solution i found is to digitalized the physical card . All we know that keeping a digital card is more convenent for all.
 
-The database should be able to store multiple entries, each with its own business card image and extracted information.
+
+##lets see the working principle of webpage i have created so far .
+I said earlier that digitalized means not keeping a soft copy of that card in your device.
+Because it not much convinent when want to look at soft copy ,similarly we could not update the future details.
+
+
+##Process
+!.
