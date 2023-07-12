@@ -13,4 +13,11 @@ Because it not much convinent when want to look at soft copy ,similarly we could
 
 ## Process
 
-!.Upload the Image in webpage 
+1.Upload the Image in webpage 
+2.Its has a feature of extracted the data in card by using EASYOCR
+3.Then extrated datas are stored in our local database, which is MySQL database.
+4.It has feature of Update & delete the data .
+5.If the company Update their contact number or shifted to new location , accordingly we can update the same as particular column.
+6.And finally can delete the the particular information.
+
+
